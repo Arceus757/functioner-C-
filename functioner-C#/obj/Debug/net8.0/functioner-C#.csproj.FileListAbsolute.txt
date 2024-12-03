@@ -1,0 +1,14 @@
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\bin\Debug\net8.0\functioner-C#.exe
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\bin\Debug\net8.0\functioner-C#.deps.json
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\bin\Debug\net8.0\functioner-C#.runtimeconfig.json
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\bin\Debug\net8.0\functioner-C#.dll
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\bin\Debug\net8.0\functioner-C#.pdb
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\functioner-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\functioner-C#.AssemblyInfoInputs.cache
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\functioner-C#.AssemblyInfo.cs
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\functioner-C#.csproj.CoreCompileInputs.cache
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\functioner-C#.dll
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\refint\functioner-C#.dll
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\functioner-C#.pdb
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\functioner-C#.genruntimeconfig.cache
+C:\Users\dmytro.malanchuk\Documents\functioner-C#\functioner-C#\obj\Debug\net8.0\ref\functioner-C#.dll
